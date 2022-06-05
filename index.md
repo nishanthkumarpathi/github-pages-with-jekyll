@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Nishanth Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I am Nishanth Kumar Pathi
