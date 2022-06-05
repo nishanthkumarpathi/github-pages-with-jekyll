@@ -1,1 +1,5 @@
-this is just a draft page
+---
+title: "Kumar"
+date: YYYY-MM-DD
+---
+this is just a blog
