@@ -1,5 +1,4 @@
 ---
-title: "Kumar"
+title: "Your blog post title"
 date: YYYY-MM-DD
 ---
-this is just a blog
